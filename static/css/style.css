@@ -1,0 +1,113 @@
+.bg-zombie-y {
+    background-color: #fff340 !important;
+}
+
+a.bg-zombie-y:hover, a.bg-zombie-m:focus,
+button.bg-zombie-y:hover,
+button.bg-zombie-y:focus {
+    background-color: #fff340 !important;
+}
+
+.bg-zombie-m {
+    background-color: #df1569 !important;
+}
+
+a.bg-zombie-m:hover, a.bg-primary:focus,
+button.bg-zombie-m:hover,
+button.bg-zombie-m:focus {
+    background-color: #df1569 !important;
+}
+
+.navbar-zombie-m .navbar-brand {
+    color: #fff340;
+}
+
+.navbar-zombie-m .navbar-brand:hover, .navbar-dark .navbar-brand:focus {
+    color: #fff340;
+}
+
+.navbar-zombie-m .navbar-nav .nav-link {
+    color: rgba(255, 243, 64, 0.5);
+}
+
+.navbar-zombie-m .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus {
+    color: rgba(255, 243, 64, 0.75);
+}
+
+.navbar-zombie-m .navbar-nav .nav-link.disabled {
+    color: rgba(255, 243, 64, 0.25);
+}
+
+.navbar-zombie-m .navbar-nav .show > .nav-link,
+.navbar-zombie-m .navbar-nav .active > .nav-link,
+.navbar-zombie-m .navbar-nav .nav-link.show,
+.navbar-zombie-m .navbar-nav .nav-link.active {
+    color: #fff340;
+}
+
+.navbar-zombie-m .navbar-toggler {
+    color: rgba(255, 243, 64, 0.5);
+    border-color: rgba(255, 243, 64, 0.1);
+}
+
+.navbar-zombie-m .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 243, 64, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.navbar-zombie-m .navbar-text {
+    color: rgba(255, 243, 64, 0.5);
+}
+
+.navbar-zombie-m .navbar-text a {
+    color: #fff340;
+}
+
+.navbar-zombie-m .navbar-text a:hover, .navbar-dark .navbar-text a:focus {
+    color: #fff340;
+}
+
+.text-zombie-y {
+    color: rgba(255, 243, 64, 1.0) !important;
+}
+
+a.text-zombie-y:hover, a.text-zombie-y:focus {
+    color: rgba(255, 243, 64, 0.8) !important;
+}
+
+.text-zombie-w {
+    color: rgba(255, 255, 255, 1.0) !important;
+    font-family: 'Raleway', 'Noto Sans JP', sans-serif;
+}
+
+a.text-zombie-w:hover, a.text-zombie-w:focus {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+.text-zombie-w a{
+    color: rgba(255, 243, 64, 1.0) !important;
+    font-family: 'Raleway', 'Noto Sans JP', sans-serif;
+}
+
+.text-zombie-w a:hover, .text-zombie-w a:focus {
+    color: rgba(255, 255, 255, 0.8) !important;
+}
+
+
+body {
+    background-color: #fff340;
+}
+
+
+article h2 {
+    border-bottom: 1px solid #fff340;
+}
+
+.footer-s-container {
+     width: auto;
+     max-width: 680px;
+     padding: 0 15px;
+ }
+
+.footer {
+    background-color: #df1569;
+}
