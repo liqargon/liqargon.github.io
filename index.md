@@ -2,7 +2,7 @@
 layout: frontpage
 ---
 
-# Liqargon
+## <b>Liqargon</b>
 
 私は源さくら！ 今日から高校二年生！
 
