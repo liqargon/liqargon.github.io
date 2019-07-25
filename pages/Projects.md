@@ -6,13 +6,14 @@ permalink: /projects/
 
 ## FranChouChou Detector
 
-<a class="h5 text-zombie-y"><i class="fab fa-github"></i>FranChouChouDetector</a>
+<a class="h5 text-zombie-y"><i class="fab fa-github mx-1"></i>FranChouChouDetector (未公開)</a>
 
 ![](/images/fccd1.jpg)
 
-Twitter上で@zombie_LAr宛に画像リプを送ると画像リプを送ると画像からフランシュシュの顔を識別し、さくらちゃんが検出された場合は私のアイコンを更新するプログラム。
+Twitter上で@zombie_LAr宛に画像リプを送ると画像からフランシュシュの顔を識別し、さくらちゃんが検出された場合は@zombie_LArのアイコンを更新するプログラム。
+上の画像はサキちゃん認識されてなくて悲しい。
 
-主要なライブラリは以下。
+使用した主要なライブラリは以下。
 - OpenCV (顔認識)
 - Pytorch (顔識別 CNN)
 
@@ -20,7 +21,7 @@ Twitter上で@zombie_LAr宛に画像リプを送ると画像リプを送ると�
 
 ## Zombie-Idol Converter (Name Pending)
 
-<a class="h5 text-zombie-y"><i class="fab fa-github"></i>ZombieIdolConverter</a>
+<a class="h5 text-zombie-y"><i class="fab fa-github mx-1"></i>ZombieIdolConverter (未公開)</a>
 
 |![](/images/zic1.png)|![](/images/zic2.png)|
 |---|---|
@@ -33,3 +34,19 @@ Twitter上で@zombie_LAr宛に画像リプを送ると画像リプを送ると�
 左が元の画像、右が変換後の画像。
 
 いずれWebアプリとして公開予定(時期未定)。
+
+さくらちゃんかわいい。
+
+## Liqargon Saga
+
+<a class="h5 text-zombie-y" href="https://github.com/liqargon/liqargon.github.io"><i class="fab fa-github mx-1"></i>liqargon.github.io</a>
+
+このサイト。以下で構成。
+
+- Github Pages
+- Jekyll
+- Bootstrap4
+
+この配色にするだけでゾンサガ要素が強くて自己満足度が結構高い。へっへー、いいでしょ。
+
+まあ、誰が見るのって話だけどさ。
