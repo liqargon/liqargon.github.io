@@ -46,8 +46,8 @@ button.bg-zombie-m:focus {
 }
 
 .navbar-zombie-m .navbar-toggler {
-    color: rgba(255, 243, 64, 0.5);
-    border-color: rgba(255, 243, 64, 0.1);
+    color: rgba(255, 243, 64, 0.8);
+    border-color: rgba(255, 243, 64, 0.8);
 }
 
 .navbar-zombie-m .navbar-toggler-icon {
