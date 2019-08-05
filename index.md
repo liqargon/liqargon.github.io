@@ -17,7 +17,7 @@ layout: frontpage
 
 - [<img src="https://cdn.myanimelist.net/images/faviconv5.ico" class="mx-1">MyAnimeList](https://myanimelist.net/profile/liqargon)
 - [<i class="fab fa-twitter mx-1"></i>Twitter](https://twitter.com/zombie_LAr)
-
+- [<i class="fab fa-github mx-1"></i>Github](https://github.com/liqargon)
 
 ## Affiliation
 
