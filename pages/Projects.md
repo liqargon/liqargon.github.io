@@ -50,3 +50,18 @@ Twitter上で@zombie_LAr宛に画像リプを送ると画像からフランシ�
 この配色にするだけでゾンサガ要素が強くて自己満足度が結構高い。へっへー、いいでしょ。
 
 まあ、誰が見るのって話だけどさ。
+
+## Zombie Camera Saga
+
+<a class="h5 text-zombie-y" href="https://github.com/liqargon/ZombieCameraSaga"><i class="fab fa-github mx-1"></i>ZombieCameraSaga</a>
+
+開発中。
+
+[はいふりカメラ(神)](https://play.google.com/store/apps/details?id=com.haifuriapp)
+のゾンビランドサガVer.を作ってみたり。。。
+これいる？
+
+Androidアプリ(5.0以上)
+
+- Kotlin
+- CameraX
