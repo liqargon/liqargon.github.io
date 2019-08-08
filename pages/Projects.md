@@ -55,6 +55,8 @@ Twitter上で@zombie_LAr宛に画像リプを送ると画像からフランシ�
 
 <a class="h5 text-zombie-y" href="https://github.com/liqargon/ZombieCameraSaga"><i class="fab fa-github mx-1"></i>ZombieCameraSaga</a>
 
+![](/images/camera.jpg)
+
 開発中。
 
 [はいふりカメラ(神)](https://play.google.com/store/apps/details?id=com.haifuriapp)
