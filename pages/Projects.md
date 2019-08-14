@@ -9,10 +9,11 @@ permalink: /projects/
 <a class="h5 text-zombie-y" href="https://github.com/liqargon/ZombieCameraSaga"><i class="fab fa-github mx-1"></i>ZombieCameraSaga</a>
 ![](/images/zcs3.jpg)
 
-|![](/images/zcs2.jpg)|![](/images/zcs4.jpg)|
+|アプリ起動画面|フレーム選択画面|
 |---|---|
+|![](/images/zcs2.jpg)|![](/images/zcs4.jpg)|
 
-開発中。
+開発中。※画像は開発中のものです。
 
 [はいふりカメラ(神)](https://play.google.com/store/apps/details?id=com.haifuriapp)
 のゾンビランドサガVer.を作ってみたり。。。
