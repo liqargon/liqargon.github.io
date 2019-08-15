@@ -20,7 +20,7 @@ permalink: /projects/
 これいる？　私はいる（どんな写真もはいふりカメラで撮っていた）
 
 著作権的な問題もあってあんまり大々的に発表したりするつもりはないので、こっそりこっそり。
-私に興味をもってくれてこんな場末のページまでたどり着いた人へ。
+DMくれればapk配布しますのでお気軽にどうぞ。
 
 iOS版も需要があれば作るので、DMやリプなどで気軽にどうぞ。なお、iOS版アプリ作ったことがないので気長に。。。。
 Androidアプリ作ったことなかったけど2週間そこらでこれできたしiOS版も簡単にできるやろ！（楽観）
@@ -32,9 +32,6 @@ Androidアプリ作ったことなかったけど2週間そこらでこれでき
 
 Android 5.0以上
 
-#### Download
-
-- 最新版v0.0.0a [ダウンロード](https://github.com/liqargon/ZombieCameraSaga/releases/download/v0.0.0a/ZombieCameraSaga_v0_0_0a.apk)
 
 ## FranChouChou Detector
 
