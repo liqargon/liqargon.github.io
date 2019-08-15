@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-## Zombie Camera Saga
+## フランシュシュカメラ
 
 <a class="h5 text-zombie-y" href="https://github.com/liqargon/ZombieCameraSaga"><i class="fab fa-github mx-1"></i>ZombieCameraSaga</a>
 ![](/images/zcs3.jpg)
@@ -13,17 +13,17 @@ permalink: /projects/
 |---|---|
 |![](/images/zcs2.jpg)|![](/images/zcs4.jpg)|
 
-開発中。※画像は開発中のものです。
+開発中。Android版のみ。※画像は開発中のものです。
 
 [はいふりカメラ(神)](https://play.google.com/store/apps/details?id=com.haifuriapp)
 のゾンビランドサガVer.を作ってみたり。。。
 これいる？　私はいる（どんな写真もはいふりカメラで撮っていた）
 
 著作権的な問題もあってあんまり大々的に発表したりするつもりはないので、こっそりこっそり。
-DMくれればapk配布しますのでお気軽にどうぞ。
+DMくれればapk配布しますのでお気軽にどうぞ。公式が出してほしい（懇願）
 
-iOS版も需要があれば作るので、DMやリプなどで気軽にどうぞ。なお、iOS版アプリ作ったことがないので気長に。。。。
-Androidアプリ作ったことなかったけど2週間そこらでこれできたしiOS版も簡単にできるやろ！（楽観）
+iOS版も需要があれば作るので、DMやリプなどで。なお、iOS版アプリ作ったことがないので気長に。。。。
+Androidアプリ作ったことなかったけど2週間そこらでAndroid版できたしiOS版も簡単にできるやろ！（楽観）
 なお、実機はない模様。
 
 フレームの種類はちょくちょく増やしていきたい。手伝って！
