@@ -1,0 +1,23 @@
+/* ==========================================================================
+   Sakura skin
+   ========================================================================== */
+
+/* Colors */
+$background-color: #f53f3f3 !default;
+$text-color: #40514e !default;
+$muted-text-color: #40514e !default;
+$primary-color: #f0566e !default;
+$border-color: mix(#fff, #40514e, 75%) !default;
+$footer-background-color: #f67cbe !default;
+$link-color: #f0566e !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.page__footer {
+  color: #fff !important; // override
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
